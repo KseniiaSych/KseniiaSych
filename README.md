@@ -27,7 +27,7 @@ I'm Kseniia - an AI/ML engineer, I like coding for fun, learning and talking abo
 
 ###
 
-If you got to this point, please enjoy photoes of my dogs:
+If you got to this point, please enjoy photos of my dogs:
 <table style="width: 100%; text-align: center;">
     <tr>
         <td style="width: 50%;">
