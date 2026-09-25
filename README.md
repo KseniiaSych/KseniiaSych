@@ -19,8 +19,6 @@ I'm Kseniia - an AI/ML engineer, I like coding for fun, learning and talking abo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=KseniiaSych&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=KseniiaSych&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KseniiaSych&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
